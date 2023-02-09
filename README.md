@@ -14,7 +14,7 @@ Website: https://tagne13.github.io/challenge-1/
 
 Repo:  https://github.com/Tagne13/challenge-1.git
 
-
+![Screenshot](./Develop/assets/images/screenshot.png)
 
 
 ## Credits
