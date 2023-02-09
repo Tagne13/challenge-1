@@ -1,4 +1,4 @@
-# <Class Assignment #1>
+# Class Assignment #1
 
 ## Description
 
@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-/assets/images/screenshot.png
+
 
 ## Credits
 
